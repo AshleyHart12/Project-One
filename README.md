@@ -1,21 +1,13 @@
-# Project-One
-This our first group project.
+# Project-One - Find me a Job!
 
-Project Title: Job Search Application
-Team Members: Ashley, Cole, Denise, Kate, Ray
+##### The application will pull from the USA Jobs API to show available jobs, it will also pull from the Weather and Zillow APIs to provide weather and housing information about the city in which that job is located.
 
-Project Description: Job Search Application 
-The application will pull from the USA Jobs API to show available jobs, it will also pull from the Weather and Zillow APIs to provide weather and housing information about the city in which that job is located.
+Check it out: https://kef12.github.io/Project-One/
 
-APIs: USA Jobs API, Open Source Weather API and Zillow API
+##### Technologies Used:
+* HTML
+* CSS
+* Javascript
+* API calls
 
-BreakDown of Developer Roles:
-HTML (look and feel) -- Cole H.
-CSS -- Cole H.
-JavaScript / jQuery -- Kate F.
-Indeed API Integration -- Raymond P.
-Weather API Integration -- Ashley H.
-Zillow API -- Denise A.
-Firebase -- Kate F.
 
-https://kef12.github.io/Project-One/
